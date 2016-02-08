@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    background-color:#ccccff;
+	margin-left: 50px;
+	margin-right: 50px;
+	font-family: "Times New Roman";
+    font-size: 20px;
+}
+
+
+#container {
+	width: 75%;
+	margin: auto;
+}
+#left {
+	display:inline-block;
+}
+#middle {
+	border-radius: 20px;
+    background:#000066;
+	color: white;
+	font-size: 24px;
+	text-align: center;
+	padding-bottom:15px;
+	width:60%;
+	margin: 50px;
+	border: 2px solid white;
+	display:inline-block;	
+	
+}
+#right {
+	display:inline-block;
+}
+
+#summa {
+	margin: auto;
+    width: 10%;
+    
+}
+
+#objective {
+	display:inline-block;
+}
